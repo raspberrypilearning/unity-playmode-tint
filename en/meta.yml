@@ -1,11 +1,9 @@
-title: unity-playmode-tint
+title: Add Playmode tint to show when your project is running
 hero_image: images/banner.png
-description: unity-playmode-tint description
+description: Add Playmode tint to show when your project is running
 version: 4
 listed: false
 copyedit: false
 last_tested: "2021-11-29"
 steps:
-  - title: Introduction
-  - title: Step title
-  - title: What next?
+  - title: Add Playmode tint to show when your project is running
