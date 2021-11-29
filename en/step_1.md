@@ -1,59 +1,11 @@
-## Introduction
+It is useful to add a colour tint to the editor whilst it is in Playmode. This makes it easy to tell whether your scene is running or not. 
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+![Side my side image of the Unity editor without tint and with tint.](images/tint-no-tint.png)
 
-### What you will make
+To set a tint, go to the **Unity** menu and select **Preferences**. Choose the **Colours** menu and find the property called **Playmode tint**.
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
+![The Preferences window with Colour menu expanded and Playmode tint highlighted.](images/tint-colour-window.png)
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+Click on the existing colour to see a colour wheel where you can choose a colour and opacity level.
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
-
---- collapse ---
----
-title: What you will need
----
-### Hardware
-
-+ A computer or tablet capable of running Scratch 3
-
-### Software
-
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
-
-### Downloads
-
-+ Download the project [starter file](http://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](http://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
+Return to the Unity editor and press the **Play** button to see your new tint in action.
